@@ -6,7 +6,7 @@ draft: false
 
 `belief`; where every `virtue` starts from.
 
-`belief` is supposed to shape your `reality`.
+`belief` is from the heart. yet it is supposed to shape your `reality`.
 ---
 
 =
