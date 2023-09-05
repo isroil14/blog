@@ -1,0 +1,30 @@
+[[entries]]
+title = "taccb x"
+
+  [[entries.entries]]
+  title = "computer science & software engineering"
+  url = "/posts/greetings"
+
+  [[entries.entries]]
+  title = "github"
+  url = "https://github.com/taccb"
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "see archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "contact"
+
+  [[entries.entries]]
+  title = "twitter"
+  url = "https://twitter.com/taccb_x"
+
+[[entries]]
+title = "rss"
+url = "index.xml"
