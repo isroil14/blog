@@ -60,12 +60,13 @@ hr {
   text-align: center;
   border: 0;
 
-  &:before { content: '/////' }
-  &:after { content: attr(data-content) '/////' }
+  &:before { content: '++' }
+  &:after { content: attr(data-content) '++' }
 }
 
 pre {
-  background: black;
+  background: white;
+  border: 1px solid black;
   padding: 1em;
   overflow-x: auto; /* Fix pre content overflowing parent without scroll bar */
 }
@@ -79,8 +80,8 @@ table, th, td {
 }
 
 code {
-  color: white;
-  background: black; 
+  color: black;
+  background: white; 
   font-size: 80%;
   padding: 0.1em 0.2em;
   font-size: 90%;
