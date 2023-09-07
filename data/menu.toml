@@ -25,6 +25,10 @@ title = "contact"
   title = "twitter"
   url = "https://twitter.com/taccb_x"
 
+  [[entries.entries]]
+  title = "instagram"
+  url = "https://instagram.com/taccb"
+
 [[entries]]
 title = "rss"
 url = "index.xml"
