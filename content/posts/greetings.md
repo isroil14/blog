@@ -6,7 +6,7 @@ draft: false
 
 ***
 
-i've always been ambitious of running a personal blog of mine. that must be hugely because of my love for this gift we call writing. growing up i've had an incredible privilege of having so many great teachers and i've been heavily influenced by some spectacular individuals on the internet. all of them continuously emphasized the role of writing all the time. among them is one of the greatest minds of computer science, `leslie lamport`, the man who revolutionized the field of computer science with mathematics.
+i've always been ambitious of running a personal blog of mine. that must be hugely because of my love for this gift we call writing. growing up i've had an incredible privilege of having so many great teachers and i've been heavily influenced by some spectacular individuals on the internet. all of them continuously emphasized the role of writing all the time. among them is one of the greatest minds of computer science, leslie lamport, the man who revolutionized the field of computer science with mathematics.
 
 > "if you are thinking without writing, you only think you are thinking."
 
@@ -14,12 +14,12 @@ before anything else, my purpose from writing is to understand the concepts and 
 
 > "writing is nature's way of telling you how fuzzy your thinking is."
 
-primarily, i'll be writing on the various concepts and ideas of computer science as it relates to `software engineering`. my choice of programming language will probably be either go or rust.
+primarily, i'll be writing on the various concepts and ideas of computer science as it relates to software engineering. my choice of programming language will probably be either go or rust.
 
 
-`computer networking` is the subject i've been immersed into these days. i'm really trying to get a good grasp of how the whole system of the internet works. so expect some good detailed explainations of its concepts.
+computer networking is the subject i've been immersed into these days. i'm really trying to get a good grasp of how the whole system of the internet works. so expect some good detailed explainations of its concepts.
 
-i've been in love with `mathematics` since i knew myself as a human being and knew how to add numbers together. math flows in my blood and i love every bit of intellectual challenges it throws at me. sometimes, i may use this site to present some mathematical ideas as well.
+i've been in love with mathematics since i knew myself as a human being and knew how to add numbers together. math flows in my blood and i love every bit of intellectual challenges it throws at me. sometimes, i may use this site to present some mathematical ideas as well.
 
 if you have any suggestions and want to talk to me, feel free to contact me through any of the mediums provided on this site.
 
