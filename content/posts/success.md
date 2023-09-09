@@ -1,9 +1,9 @@
 ---
-title: "about success"
-date: 2023-09-07
+title: "On Success"
+date: 2023-08-23
 draft: false
 ---
 
 ***
 
-[**value + labor = success**](https://quran.com/103/3)
+[Value + Labor = Success](https://quran.com/103/3)

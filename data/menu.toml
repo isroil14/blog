@@ -1,34 +1,34 @@
 [[entries]]
-title = "taccb x"
+title = "Taccb"
 
   [[entries.entries]]
-  title = "computer science & software engineering"
-  url = "/posts/greetings"
+  title = "Computer Science & Software Engineering"
+  url = "/posts/welcome"
 
   [[entries.entries]]
-  title = "github"
+  title = "GitHub"
   url = "https://github.com/taccb"
 
 [[entries]]
-title = "all posts"
+title = "All Posts"
 
   [entries.post_list]
   limit = 5
   show_more = true
-  show_more_text = "see archive..."
+  show_more_text = "See Archive..."
   show_more_url = "posts"
 
 [[entries]]
-title = "contact"
+title = "Contact"
 
   [[entries.entries]]
-  title = "twitter"
+  title = "Twitter"
   url = "https://twitter.com/taccb_x"
 
   [[entries.entries]]
-  title = "instagram"
+  title = "Instagram"
   url = "https://instagram.com/taccb"
 
 [[entries]]
-title = "rss"
+title = "RSS"
 url = "index.xml"

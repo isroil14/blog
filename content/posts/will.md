@@ -1,11 +1,9 @@
 ---
-title: "about will"
-date: 2023-09-07
+title: "On Will"
+date: 2023-08-12
 draft: false
 ---
 
 ***
 
-parallel to belief, will is the ultimate depth of a human being.
-
-it is the only real gift we are all bestowed with. every other "gift" is just an illusion.
+Parallel to belief, will is the ultimate depth of a human being. It is the only real gift we are all bestowed with. Every other gift is just an illusion.

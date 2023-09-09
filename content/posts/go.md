@@ -1,40 +1,42 @@
 ---
-title: "i love go"
+title: "I Love Go"
 date: 2023-09-08
 draft: false
 ---
 
 ***
 
-the very first book i read on cs was sicp. ergo i am a lisper. to me the entire universe seems to be written in lisp.
+The very first book I read on CS was SICP. Ergo I am a lisper. To me the entire universe seems to be written in Lisp.
 
-a couple of years ago i started using go and i already love the language. there are some aspects of go which are quite lisp-esque.
+A couple of years ago I started using Go and I already love the language. There are some aspects of Go which are quite lisp-esque.
 
-i reckon that is simplicity and the emphasis on the fundamentals of the language we are trying to build. cuz that is how good software is written: you have to first develop a language for that specific task. the language serves as a building block to accomplish a greater piece of software.
+I reckon that is simplicity and the emphasis on the fundamentals of the language we are trying to build. Because that is how good software is written; you have to first develop a language or framework for that specific task. The language serves as a building block to accomplish a greater piece of software.
 
-i have to be honest and admit that i am still young and immature in software. the things below are just my personal opinions. and what is common with all opinions in the world ? they change.
+I have to be honest and admit that I am still young and immature in Software. The things below are just my personal opinions. And what is common with all opinions in the world ? They change.
 
-i hear many complaints of developers about quite mundane tasks you have to do in go. but i believe some tasks have to be mundane. for example security has to be mundane. error handling has to be mundane.
+I hear many complaints of developers about quite mundane tasks you have to do in Go. But I believe some tasks have to be mundane. For example security has to be mundane and error handling has to be mundane.
 
-the single greatest factor in assessing any language is "how expressive is it ?".
+The single greatest factor in assessing any language is how expressive it is.
 
-but you cannot really compete with functional languages in that regard. i am not talking about multi-paradigm languages who just support functional programming style. i am talking about languages like haskell, lisp and many alike.
+But it is really hard to compete with functional languages in that regard. I'm not talking about multi-paradigm languages who just support functional programming style. I'm talking about languages like Haskell, Lisp and many alike.
 
-but there is another side to it as well: a programming language has to be powerful too. it has to have a strong effect.
+But there is another side to it as well; a programming language has to be powerful too. It has to have a strong effect.
 
-functional languages are primarily without any side-effects. you can still work around it. but the experience feels like you are going against the very grain of the language.
+Functional languages are primarily without any side-effects. Although you can still work around it, the experience feels like you are going against the very grain of the language.
 
-and the problem is that power and expressiveness seem to be always fighting each other, just like readibility and hiding complexity (abstractions).
+The problem is that power and expressiveness seem to be always fighting each other, just like readibility and hiding complexity (abstractions).
 
-i believe go is the perfect balance between:
+I believe Go is the perfect balance between:
 
 - power and expressiveness
-- readibility and handling complexity
+- readibility and hiding complexity
 
-interfaces in go are really special. other languages do not have that to that degree. at least the ones i know. interfaces in go allow you to make very thin layers of abstractions to help you maintain the mental model of your code base without hurting readibility.
+Interfaces in Go are really special. Other languages do not have that to that degree. At least the ones I know.
 
-i've not even talked about concurrency and very elegant packaging system go has. they deserve their own detailed articles.
+Interfaces in Go allow you to make very thin layers of abstractions to help you maintain the mental model of your code base without hurting readibility.
 
-type system ? very good.
+I've not even talked about concurrency and very elegant packaging system Go has. They deserve their own detailed articles.
 
-if we can just add enums to go, it is the language for the next 100 years.
+Type system ? Very good.
+
+If we can just add enums to Go, it is the language for the next 100 years.
