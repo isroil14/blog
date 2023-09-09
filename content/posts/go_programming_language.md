@@ -1,5 +1,5 @@
 ---
-title: "I Love Go"
+title: "Go Programming Language"
 date: 2023-09-08
 draft: false
 ---

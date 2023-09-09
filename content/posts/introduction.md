@@ -1,5 +1,5 @@
 ---
-title: "Welcome"
+title: "Introduction"
 date: 2023-06-14
 draft: false
 ---
@@ -22,18 +22,6 @@ Computer Networking is the subject I've been immersed into these days. I'm reall
 I've been in love with Mathematics since I knew myself as a human being and knew how to add numbers together. Math flows in my blood and I love every bit of intellectual challenge it throws at me. Sometimes, I may use this site to present some mathematical ideas as well.
 
 If you have any suggestions and want to talk to me, feel free to contact me through any of the mediums provided on this site. I would be happy to talk to you :)
-
-    package main
-
-    import (
-        "fmt"
-        "os"
-    )
-
-    func main() {
-        fmt.Println("Hello World")
-        os.Exit(1)
-    }
 
 <!-- # <a name="Headings"></a>Headings
 

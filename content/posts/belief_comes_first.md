@@ -1,5 +1,5 @@
 ---
-title: "On Belief"
+title: "Belief Comes First"
 date: 2023-08-06
 draft: false
 ---

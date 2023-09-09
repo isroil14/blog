@@ -1,5 +1,5 @@
 ---
-title: "On Success"
+title: "How To Succeed"
 date: 2023-08-23
 draft: false
 ---

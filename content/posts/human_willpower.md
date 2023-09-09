@@ -1,5 +1,5 @@
 ---
-title: "On Will"
+title: "Human Willpower"
 date: 2023-08-12
 draft: false
 ---
