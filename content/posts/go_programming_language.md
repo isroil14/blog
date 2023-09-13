@@ -18,9 +18,9 @@ I hear many complaints of developers about quite mundane tasks you have to do in
 
 The single greatest factor in assessing any language is how expressive it is.
 
-But it is really hard to compete with functional languages in that regard. I'm not talking about multi-paradigm languages who just support functional programming style. I'm talking about languages like Haskell, Lisp and many alike.
+But it is really hard to compete with functional languages in that regard. I'm not talking about multi-paradigm languages who just happen to support functional programming style. I'm talking about languages like Haskell, Lisp and many alike.
 
-But there is another side to it as well; a programming language has to be powerful too. It has to have a strong effect.
+But there is another side to it as well; a programming language has to be powerful too. It has to have a strong effect on the "world" or on the computer, let's say.
 
 Functional languages are primarily without any side-effects. Although you can still work around it, the experience feels like you are going against the very grain of the language.
 
@@ -33,10 +33,14 @@ I believe Go is the perfect balance between:
 
 Interfaces in Go are really special. Other languages do not have that to that degree. At least the ones I know.
 
-Interfaces in Go allow you to make very thin layers of abstractions to help you maintain the mental model of your code base without hurting readibility.
+They allow you to make very thin layers of abstractions to help you maintain the mental model of your code base without hurting readibility.
 
-I've not even talked about concurrency and very elegant packaging system Go has. They deserve their own detailed articles.
+I've not yet talked about concurrency and very elegant packaging system Go has. They definitely deserve their own detailed articles.
 
 Type system ? Very good.
 
-If we can just add enums to Go, it is the language for the next 100 years.
+To me, Go = Rust - enums.
+
+Of course, there are other details as well like memory management, but if we can just add enums to Go, it is the language for the next 100 years.
+
+[Go Programming Language](https://go.dev/)
