@@ -1,5 +1,5 @@
 ---
-title: "Linked List"
+title: "Linked List In Go"
 date: 2023-09-11
 draft: false
 ---

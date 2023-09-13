@@ -13,3 +13,6 @@ Always remember:
 - means of abstraction, by which compound elements can be named and manipulated as units.
 
 In programming, we deal with two kinds of elements: procedures and data. Informally, data is "stuff" that we want to manipulate, and procedures are descriptions of the rules for manipulating the data. Thus, any powerful programming language should be able to describe primitive data and primitive procedures and should have methods for combining and abstracting procedures and data.
+
+
+[Structure and Interpretation of Computer Programs](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)

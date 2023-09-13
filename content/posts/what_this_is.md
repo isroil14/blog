@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "What This Blog Is"
 date: 2023-06-14
 draft: false
 ---
