@@ -1,5 +1,5 @@
 [[entries]]
-title = "Taccb"
+title = "taccb"
 
   [[entries.entries]]
   title = "Computer Science & Software Engineering"
@@ -10,10 +10,10 @@ title = "Taccb"
   url = "https://github.com/taccb"
 
 [[entries]]
-title = "All Posts"
+title = "Recent Posts"
 
   [entries.post_list]
-  limit = 5
+  limit = 10
   show_more = true
   show_more_text = "See Archive..."
   show_more_url = "posts"
@@ -22,12 +22,7 @@ title = "All Posts"
 title = "Contact"
 
   [[entries.entries]]
-  title = "Twitter"
-  url = "https://twitter.com/taccb_x"
-
-  [[entries.entries]]
-  title = "Instagram"
-  url = "https://instagram.com/taccb"
+  title = "isroillisper@gmail.com"
 
 [[entries]]
 title = "RSS"

@@ -10,9 +10,9 @@
         block = true
         title = true
   [markup.highlight]
-    anchorLineNos = false
-    codeFences = true
-    guessSyntax = false
+    anchorLineNos = true
+    codeFences = false
+    guessSyntax = true
     hl_Lines = ''
     hl_inline = false
     lineAnchors = ''
