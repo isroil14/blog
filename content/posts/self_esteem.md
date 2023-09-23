@@ -8,5 +8,6 @@ draft: false
 
 Almost every problem is the problem of self-esteem.
 
-Our life is nothing but the set of decisions we make. Decisions we make are only superficially about what we do. They, in essence, are about who we are.
+Our life is nothing but the set of decisions we make. Decisions we make are only superficially about what we do. They, in essence, are about who we're.
 
+We can't change the decisions we make before we change our own perception of ourselves.
