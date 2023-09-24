@@ -6,6 +6,4 @@ draft: false
 
 ***
 
-Worship in the Quranic context denotes the state of bending your will in front of the Will of your Master.
-
-Surrender your will to the Will of your Lord.
+Worship in the Quranic context denotes the state of bending, surrendering your will in front of the Will of your Master.
